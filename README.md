@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @khazin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking for job in frontend web development
+- 💞️ I’m looking for job in web development
 - 📫 How to reach me: khazin316@gmail.com
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I play guitar
