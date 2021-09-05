@@ -2,10 +2,9 @@
 
 - 👋 Hi, I’m @khazin
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
 - 💞️ I’m looking for job in web development
 - 📫 How to reach me: khazin316@gmail.com
-
+<!-- - 🌱 I’m currently learning node.js -->
 
 #### Technologies
 
